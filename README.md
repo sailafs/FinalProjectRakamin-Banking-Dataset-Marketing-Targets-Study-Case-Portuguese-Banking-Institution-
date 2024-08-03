@@ -1,4 +1,4 @@
-# Final Project - Banking Dataset Marketing Analysis
+# Final Project - Banking Marketing Analysis
 
 ## Project Overview
 This project, conducted by Pattern Pioneers, analyzes a Portuguese banking institution's marketing campaign data to optimize their deposit program subscription rates through telemarketing.
